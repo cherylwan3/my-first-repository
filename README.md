@@ -1,4 +1,4 @@
-# Git basics
+# Basics of Git
 
 # Table of Contents
 
