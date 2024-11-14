@@ -1,5 +1,5 @@
-# Basics of Git
+# Git Basics
 
-# Table of Contents
+Hello world, I love using Git!
 
-- example_file.txt
+One more change for a blessing.
